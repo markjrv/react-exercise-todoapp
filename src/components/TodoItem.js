@@ -9,7 +9,7 @@ function TodoItem() {
         <form action="" className="todo-item-form">
           <div>
             <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike" />
-            <label for="vehicle1"> First Item</label>
+            <label for="vehicle1"> First Items</label>
           </div>
           <div>
             <BiArrowToBottom /><BiTrash />
